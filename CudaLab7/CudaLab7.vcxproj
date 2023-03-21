@@ -21,6 +21,13 @@
     <None Include="glew64.dll" />
     <None Include="lena_bw.pgm" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="hitable.h" />
+    <ClInclude Include="hitable_list.h" />
+    <ClInclude Include="ray.h" />
+    <ClInclude Include="sphere.h" />
+    <ClInclude Include="vec3.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{EEA6B837-5F59-4182-91EC-7FE56221BA2F}</ProjectGuid>
     <RootNamespace>CudaLab7</RootNamespace>
