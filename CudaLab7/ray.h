@@ -16,5 +16,3 @@ class ray
 };
 
 #endif 
-
-
